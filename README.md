@@ -85,4 +85,4 @@ Overall, the findings show that PCA-derived features can support machine-learnin
 4. Run the notebook `notebooks/ancestry_ml.ipynb`
 
 ## About me
-Dipti, M.V.Sc. scholar in Animal Genetics and Breeding at ICAR-National Dairy Research Institute (NDRI), Karnal, India. Contact: pdiptimayee1@gmail.com
+Diptimayee Panda, DVM, Master's in Animal Genetics and Breeding at ICAR-National Dairy Research Institute (NDRI), Karnal, India. Contact: pdiptimayee1@gmail.com
